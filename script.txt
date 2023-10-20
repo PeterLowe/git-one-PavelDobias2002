@@ -1,0 +1,5 @@
+GIT
+
+Init
+The init code command initialized empty repository in my student folder 
+We can check this by going the address of the repository and showing hidden files (.git)
