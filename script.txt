@@ -28,3 +28,16 @@ In this instance its: origin main which we created in before using git remote ad
 Branch
 We use git branch name_of_the_branch to create sequence of commit points which needs to be merged to main
 
+Checkout
+We use the git checkout branch_name to switch to that branch from current one
+
+Merge
+We use git merge branch_name to merge branches to main 
+
+Log
+Git log displays commit history
+Here we can see who did the commit, what was committed and the name of the comit
+
+Clone
+git clone copies existing repository, creating new copy of it in different folder
+to clone we open different folder in it we open git bash and we use the url of the reposiotry we want to copy to that folder
