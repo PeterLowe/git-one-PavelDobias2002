@@ -3,3 +3,24 @@ GIT
 Init
 The init code command initialized empty repository in my student folder 
 We can check this by going the address of the repository and showing hidden files (.git)
+
+Add
+The add code command will add all the files in the folder, we can check this with status command
+The git add . adds all files, if we want to specify we use: git add <name of the file>
+
+Status
+I used status command when showing the add command, but what it does Is that it shows the status of the folder in which we are using the git bash 
+
+Commit
+The commit command sets “milestones” in the project timeline, something we can come back in later
+There is Committer: in this instance me
+We can see that the commit name is first_commit, then we have info about committer and we can see that all the files in the folder were changed
+
+Remote
+The git remote add <name> <url> is used to add remote server to the folder we are using the git bash in
+We can check what remote servers we have by using git remote -v
+
+Push
+Git push updates remote node with current node that we are using, we are pushing local nodes to the remote ones 
+To push we need to complete authentication in browser and needs to be associated remote node
+In this instance its: origin main which we created in before using git remote add 
