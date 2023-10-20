@@ -24,3 +24,7 @@ Push
 Git push updates remote node with current node that we are using, we are pushing local nodes to the remote ones 
 To push we need to complete authentication in browser and needs to be associated remote node
 In this instance its: origin main which we created in before using git remote add 
+
+Branch
+We use git branch name_of_the_branch to create sequence of commit points which needs to be merged to main
+
